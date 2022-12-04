@@ -1,1 +1,1 @@
-# Advent-challenge-2022-Day3
+main goal for right now   learn
